@@ -1,0 +1,2 @@
+# Optional Word manuscript generator, separate from scientific-analysis requirements.
+python-docx==1.2.0

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "citation": "City Syntax Lab. Buildings.sg office template, 06_Office_SGP_2025_V5.idf.",
+    "url": "https://github.com/City-Syntax/buildings.sg"
+  },
+  {
+    "id": 2,
+    "citation": "EnergyPlus 24.2. Input Output Reference: ideal loads and daylighting.",
+    "url": "https://bigladdersoftware.com/epx/docs/24-2/input-output-reference/group-daylighting.html"
+  },
+  {
+    "id": 3,
+    "citation": "Guardian Glass (2025). Coated Glass digital selector, p. 2, double glazed 6-16-4, 90% argon.",
+    "url": "https://www.guardianglass.com/content/dam/guardianindustriesholdings/technical-center/europe/architectural/digital-glass-selector/Guardian-Glass-Digital-Selector-EN.pdf"
+  },
+  {
+    "id": 4,
+    "citation": "Ladybug Tools. Singapore IWEC weather, WMO 486980.",
+    "url": "https://github.com/ladybug-tools/uwg/blob/master/resources/SGP_Singapore.486980_IWEC.epw"
+  },
+  {
+    "id": 5,
+    "citation": "Qiblawi, S., Touchie, M., and Azar, E. (2026). Integrating building geometry changes into reduced-order modeling for rapid retrofit performance assessment. eSim 2026, 783–790.",
+    "url": "https://doi.org/10.26868/31114504.2026.77"
+  },
+  {
+    "id": 6,
+    "citation": "Jowett-Lockwood, L., and Evins, R. (2025). Examining the generalizability of inverse surrogate models for different geometries and locations. Energy and Buildings 335, 115539.",
+    "url": "https://doi.org/10.1016/j.enbuild.2025.115539"
+  },
+  {
+    "id": 7,
+    "citation": "Westermann, P., and Evins, R. (2020). Using Bayesian deep learning approaches for uncertainty-aware building energy surrogate models.",
+    "url": "https://arxiv.org/abs/2010.03029"
+  },
+  {
+    "id": 8,
+    "citation": "Scikit-learn documentation. Grouped cross-validation and regression estimators.",
+    "url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+  },
+  {
+    "id": 9,
+    "citation": "Thrampoulidis, E., Mavromatidis, G., Lucchi, A., and Orehounig, K. (2021). A machine learning-based surrogate model to approximate optimal building retrofit solutions. Applied Energy 281, 116024.",
+    "url": "https://doi.org/10.1016/j.apenergy.2020.116024"
+  }
+]
